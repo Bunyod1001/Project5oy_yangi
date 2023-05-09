@@ -1,0 +1,33 @@
+
+.navbar {
+    /* position: absolute; */
+    width: 825px;
+    height: 72px;
+    /* margin-top: 50px; */
+    /* margin-left: 265px; */
+    background: #373F68;
+    border-radius: 10px;
+  }
+  
+  .navbar-brand {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: -0.25px;
+    color: #FFFF;
+  }
+  
+  .btn-primary {
+    background-color: #AD1FEA;
+    border-radius: 10px;
+  }
+  
+  .btn-primary:hover {
+    background-color: #C75AF6;
+  }
+  
+  .dropdown-toggle {
+    background: #373F68;
+  }
+  

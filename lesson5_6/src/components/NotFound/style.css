@@ -1,0 +1,22 @@
+.notNav-section {
+    margin-top: 25px;
+}
+
+.notF-texs {
+    color: #3A4374;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+    letter-spacing: -0.333333px;
+}
+
+.notF-text{
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+text-align: left;
+color: #647196;
+}
